@@ -139,10 +139,13 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 <details>
   <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true)](https://wakatime.com/@muhammadz)
-</details>
+   -->
+
+[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true)](https://wakatime.com/@muhammadz)
+
+<!-- </details> -->
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mz-pixel.mz-pixel)](https://github.com/mz-pixel)
