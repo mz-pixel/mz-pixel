@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
-[![wakatime](https://wakatime.com/badge/user/4fe45412-9b3f-4eb4-a110-5a13d4b3f371.svg)](https://wakatime.com/@4fe45412-9b3f-4eb4-a110-5a13d4b3f371)
+[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- </details> -->
 
