@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 ### 📊 Stats
 
 <a href="https://github.com/mz-pixel">
-<img src="https://github-readme-stats.vercel.app/api?username=mz-pixel&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Zamin's github stats" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="Zamin's github stats" width="48%" >
 </a>
+<!-- 
+![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github) -->
 
 <a href="https://github.com/mz-pixel">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mz-pixel&theme=github_dark&hide_border=true" alt="Zamin's github streak" width="48%" >
@@ -146,7 +148,7 @@ Here are some ideas to get you started:
 
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
-[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz)](https://github.com/anuraghazra/github-readme-stats)
+[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- </details> -->
 
