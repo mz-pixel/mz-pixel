@@ -146,7 +146,7 @@ Here are some ideas to get you started:
   <summary>🧑‍🔬 This week I did</summary>
    -->
 
-[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
+[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
 [![Zamin's wakatime stats](https://wakatime.com/share/@muhammadz/a30fad49-c2ac-41ce-9f81-5a06c1eb0612.svg)](https://github.com/anuraghazra/github-readme-stats)
 
