@@ -148,6 +148,8 @@ Here are some ideas to get you started:
 
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
+
 <!--
 [![Zamin's wakatime stats](https://wakatime.com/share/@muhammadz/a30fad49-c2ac-41ce-9f81-5a06c1eb0612.svg)](https://github.com/anuraghazra/github-readme-stats) -->
 
