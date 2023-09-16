@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/mz-pixel">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mz-pixel&theme=github_dark&hide_border=true" alt="Zamin's github streak" width="48%" >
 </a>
----
+
+
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
