@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/mz-pixel">
 <img src="https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="Zamin's github stats" width="48%" >
 </a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
 <!-- 
 ![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github) -->
 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
+
 ---
 
 ### 🧑‍💻 Languages
