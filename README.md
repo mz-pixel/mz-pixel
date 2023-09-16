@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <!-- 
 ![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github) -->
 
-<a href="https://github.com/mz-pixel">
+<!-- <a href="https://github.com/mz-pixel">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mz-pixel&theme=github_dark&hide_border=true" alt="Zamin's github streak" width="48%" >
-</a>
+</a> -->
 
 
 [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
