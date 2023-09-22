@@ -33,26 +33,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Stats
-
-<a href="https://github.com/mz-pixel">
-<img src="https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="Zamin's github stats" width="48%" >
-</a>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
-<!-- 
-![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github) -->
-
-<!-- <a href="https://github.com/mz-pixel">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mz-pixel&theme=github_dark&hide_border=true" alt="Zamin's github streak" width="48%" >
-</a> -->
-
-
-<!-- [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz) -->
-
-
----
-
 ### 🧑‍💻 Languages
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mz-pixel)
@@ -144,6 +124,25 @@ Here are some ideas to get you started:
 <a href="https://github.com/mz-pixel">
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mz-pixel&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
 </a>
+
+---
+### 📊 Stats
+
+<a href="https://github.com/mz-pixel">
+<img src="https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="Zamin's github stats" width="48%" >
+</a>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadZamin)](https://leetcode.com/MuhammadZamin/)
+<!-- 
+![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz-pixel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github) -->
+
+<!-- <a href="https://github.com/mz-pixel">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mz-pixel&theme=github_dark&hide_border=true" alt="Zamin's github streak" width="48%" >
+</a> -->
+
+
+<!-- [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz) -->
+
 
 ---
 
