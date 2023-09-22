@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </a> -->
 
 
-[![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz)
+<!-- [![Zamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhammadz&theme=github_dark&hide_border=true&v=2)](https://wakatime.com/@muhammadz) -->
 
 
 ---
