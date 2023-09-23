@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java and Android Studio**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/mz-pixel)
+- 👨‍💻 All of my projects are available [here](https://mzamin.netlify.app/)
 
 - 💬 Ask me about **MERN STACK**
 
