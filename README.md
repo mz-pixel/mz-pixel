@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <a href="https://github.com/mz-pixel"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Muhammad Zamin</h1>
 <h3 align="center">🌐 Web Developer ✍️ Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Java and Android Studio**
+- 🌱 I’m currently learning **Machine Learning using Python**
 
 - 👨‍💻 All of my projects are available [here](https://mzamin.netlify.app/)
 
