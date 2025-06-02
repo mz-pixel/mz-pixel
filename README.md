@@ -18,9 +18,8 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| **MedSync** | Doctor appointment app with starvation-free scheduling algorithm | [Link](https://medsync.netlify.app) |
+| **MedSync** | Doctor appointment app with starvation-free scheduling algorithm | [Link]([https://medsync.netlify.app](https://github.com/mz-pixel/CtrlHackDel-Submission)) |
 | **Typing Duel** | Multiplayer typing game using WebSockets and real-time cursor sync | _Coming soon_ |
-| **Smart Recipe** | Voice-interactive meal planner with freshness tracking | _Prototype in progress_ |
 
 ---
 
