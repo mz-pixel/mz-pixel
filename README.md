@@ -72,7 +72,7 @@
 
 ---
 
-### 🎯 LeetCode & Hackerrank
+### 🎯 LeetCode
 
 [![LeetCode](https://leetcard.jacoblin.cool/MuhammadZamin?theme=dark&font=Fira+Code&extension=null)](https://leetcode.com/MuhammadZamin/)
 
