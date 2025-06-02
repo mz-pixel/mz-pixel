@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on:
   - 🎮 Real-time typing game (Next.js + WebSocket + Supabase)
 
-- 🌱 Currently learning: Transformer internals, CUDA acceleration, JAX optimization
 - 💼 Portfolio: [mzamin.netlify.app](https://mzamin.netlify.app/)
 - 📫 Reach me at: **zaminjamal.zj@gmail.com**
 
